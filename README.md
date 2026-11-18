@@ -1,2 +1,2 @@
-# index10.html
+# index.html
 "Mekdepler üçin wirtual himiýa laboratoriýasy"
